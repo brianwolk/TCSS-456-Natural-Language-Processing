@@ -3,5 +3,5 @@ Some scripts and a project I created in a senior level elective class studying n
 
 
 <br>
-
+<hr><br>
 The focus of the class was on learning the field of NLP so there was not evaluation based on the code itself such as structure/commenting, rather my ability to write scripts and perform meaningful tasks using Python and the principles of NLP taught in the course. 
