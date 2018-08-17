@@ -4,4 +4,4 @@ Some scripts and a project I created in a senior level elective class studying n
 
 <br>
 
-The focus of the class was on learning the field of NLP so there was not evaluation based on the code itself ie structure/commenting, however it demonstrates my ability to write scripts and perform meaningful tasks using Python though the bulk of my Computer Science education was not taught in that language.
+The focus of the class was on learning the field of NLP so there was not evaluation based on the code itself such as structure/commenting, rather my ability to write scripts and perform meaningful tasks using Python and the principles of NLP taught in the course. 
